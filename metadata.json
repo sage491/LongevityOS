@@ -1,0 +1,6 @@
+{
+  "name": "Immortal Theory - Research Simulation",
+  "description": "A research simulation platform exploring longevity, human biology, and lifespan dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
